@@ -1,5 +1,5 @@
 
-Copyright (c) 2017, Michael Ravenel <>
+Copyright (c) 2017, Michael Ravenel <michael.ravenel@gmail.com>
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
